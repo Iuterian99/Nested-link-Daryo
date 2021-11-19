@@ -22,7 +22,7 @@ function App() {
           <ul className="list-unstyled d-flex justify-content-around">
             <li className="bg-success">
               <NavLink
-                className="d-block mx-auto pt-2 pb-2 ps-5 pe-5 text-center fs-1"
+                className="d-block mx-auto pt-2 pb-2 ps-5 pe-5 text-center fs-1 text-light"
                 activeClassName="bg-danger text-dark"
                 to="/uzb"
               >
@@ -31,7 +31,7 @@ function App() {
             </li>
             <li className="bg-success">
               <NavLink
-                className="d-block mx-auto pt-2 pb-2 ps-5 pe-5 text-center fs-1"
+                className="d-block mx-auto pt-2 pb-2 ps-5 pe-5 text-center fs-1 text-light"
                 activeClassName="bg-danger text-dark"
                 to="/jahon"
               >

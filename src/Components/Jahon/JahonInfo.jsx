@@ -8,7 +8,7 @@ function JahonInfo() {
           <ul className="uzb-list mt-3 list-unstyled d-flex justify-content-center">
             <li className="bg-success me-5">
               <NavLink
-                className="d-block p-2 ps-5 pe-5"
+                className="d-block p-2 ps-5 pe-5 text-light"
                 activeClassName="bg-danger text-dark"
                 to="/jahon/russia"
               >
@@ -17,7 +17,7 @@ function JahonInfo() {
             </li>
             <li className="bg-success">
               <NavLink
-                className="d-block p-2 ps-5 pe-5"
+                className="d-block p-2 ps-5 pe-5 text-light"
                 activeClassName="bg-danger text-dark"
                 to="/jahon/amerika"
               >
